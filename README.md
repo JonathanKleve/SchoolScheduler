@@ -7,37 +7,26 @@ This project demonstrates foundational software development concepts, including 
 
 ## Features
 
+* Term Management:
+  * Add, view, update, and delete term details
+
 * Course Management:
 
-  * Add, view, update, and delete course details (e.g., course ID, name, start and end dates).
+  * Add, view, update, and delete course details
 
-* Student Management:
+* Assignment Management:
 
-  * Add, view, update, and delete student records (e.g., student ID, name, contact info).
-
-  * Enroll students in courses.
+  * Add, view, update, and delete assignment details
 
 * Instructor Management:
 
-  * Add, view, update, and delete instructor details (e.g., instructor ID, name).
+  * Add, view, update, and delete instructor details
 
-  * Assign instructors to courses.
+* Alert Creation:
+  * Create alerts for the start and end date of courses and assignments
 
-* Schedule Creation:
+* Data Persistence: All data (courses, students, instructors, schedules) is securely stored and retrieved from a relational database.
 
-  * Assign specific times and locations to courses.
-
-  * Data Persistence: All data (courses, students, instructors, schedules) is securely stored and retrieved from a relational database.
-
-* Reporting:
-
-  * Generate student schedules.
-
-  * Generate course rosters.
-
-[Add any other specific reports, e.g., Instructor workload reports]
-
-[Add any other specific features, e.g., User authentication, Search functionality]
 
 ## Technologies Used
 
@@ -68,7 +57,7 @@ Before you begin, ensure you have the following installed:
   * [Download Android Studio](https://developer.android.com/studio/install)
 
 * Installation
-  * Clone the repository:
+1. Clone the repository:
 
 ``` 
 git clone https://github.com/JonathanKleve/SchoolScheduler.git
@@ -76,19 +65,25 @@ git clone https://github.com/JonathanKleve/SchoolScheduler.git
 cd SchoolScheduler
 ```
 
-Open and Build the Project in Android Studio:
+2. Open and Build the Project in Android Studio:
 
-Open Android Studio.
+  * Open Android Studio.
 
-Select File > Open and navigate to the SchoolScheduler directory.
+  * Select File > Open and navigate to the SchoolScheduler directory.
 
-Android Studio should automatically detect the project and synchronize Gradle. Allow it to download any necessary dependencies.
+  * Android Studio should automatically detect the project and synchronize Gradle. Allow it to download any necessary dependencies.
 
-Build the project: Build > Make Project.
+  * Build the project: Build > Make Project.
 
-Usage
+## Usage
 
-After launching the application, you will be taken to the main menu. To return to the main menu at any time, tap the home icon in the top left of the application. To create a new term, course, assignment, or instructor, select the appropriate option from the drop down menu under the create new label and then tap the go button. Keep in mind that a course will require a term and instructor in the database in order to create and an assignment will require a course in the database in order to create. In order to view all of the terms, courses, assignments, or instructors currently saved, select the corresponding option from the drop down menu under the view all label and then tap the go button. In order to view detailed information on a specific term, course, assignment, or instructor, complete the view all steps mentioned previously and then tap on the specific item from within that list. From this menu, you can edit or delete the item, see associated courses for terms, create alerts for courses and assignments, and share notes for courses.
+After launching the application, you will be taken to the main menu. To return to the main menu at any time, tap the home icon in the top left of the application. 
+
+* To create a new term, course, assignment, or instructor, select the appropriate option from the drop down menu under the create new label and then tap the go button.
+  * Keep in mind that a course will require a term and instructor in the database in order to create and an assignment will require a course in the database in order to create.
+* In order to view all of the terms, courses, assignments, or instructors currently saved, select the corresponding option from the drop down menu under the view all label and then tap the go button.
+* In order to view detailed information on a specific term, course, assignment, or instructor, proceed to the previously explained View All Menu and then tap on the specific item from within that list.
+  * From this menu, you can edit or delete the item, see associated courses for terms, create alerts for courses and assignments, and share notes for courses.
 
 To run the Android application:
 
