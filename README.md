@@ -77,49 +77,45 @@ cd SchoolScheduler
 
 ## Usage
 
-After launching the application, you will be taken to the main menu. To return to the main menu at any time, tap the home icon in the top left of the application. 
-
+* To run the Android application:
+  * From Android Studio, select your desired emulator or connected device from the dropdown menu.
+  * Click the green "Run" button (looks like a play icon).
+* After launching the application, you will be taken to the main menu.
+  * To return to the main menu at any time, tap the home icon in the top left of the application. 
 * To create a new term, course, assignment, or instructor, select the appropriate option from the drop down menu under the create new label and then tap the go button.
   * Keep in mind that a course will require a term and instructor in the database in order to create and an assignment will require a course in the database in order to create.
 * In order to view all of the terms, courses, assignments, or instructors currently saved, select the corresponding option from the drop down menu under the view all label and then tap the go button.
 * In order to view detailed information on a specific term, course, assignment, or instructor, proceed to the previously explained View All Menu and then tap on the specific item from within that list.
   * From this menu, you can edit or delete the item, see associated courses for terms, create alerts for courses and assignments, and share notes for courses.
 
-To run the Android application:
 
-From Android Studio, select your desired emulator or connected device from the dropdown menu.
-
-Click the green "Run" button (looks like a play icon).
-
-Project Documentation
+## Project Documentation
 This project is accompanied by some documentation.
 
-Project Reflection: This document addresses a few key aspects of the application, the development process, issues encountered, and how the developer would approach the project again with different perspectives.
+* Project Reflection: This document addresses a few key aspects of the application, the development process, issues encountered, and how the developer would approach the project again with different perspectives.
 
-[Link to Project Reflection](docs/School%20Scheduler%20Reflection.pdf)
+  * [Link to Project Reflection](docs/School%20Scheduler%20Reflection.pdf)
 
-UI/UX Diagrams:
+* UI/UX Diagrams:
 
-[Link to Storyboard](docs/School%20Scheduler%20Storyboard.png)
+  * [Link to Storyboard](docs/School%20Scheduler%20Storyboard.png)
 
-APK Generation Documentation:
+* APK Generation Documentation: Show the process of creating the signed APK file via Android Studio for proof as required by the assignment.
 
-APK Screenshots 1-4: Showing the process of creating the signed APK file via Android Studio for proof as required by the assignment.
+  * [Link to Screenshot 1](docs/APK%20Screenshot%201.png)
+  * [Link to Screenshot 2](docs/APK%20Screenshot%202.png)
+  * [Link to Screenshot 3](docs/APK%20Screenshot%203.png)
+  * [Link to Screenshot 4](docs/APK%20Screenshot%204.png)
 
-[Link to Screenshot 1](docs/APK%20Screenshot%201.png)
-[Link to Screenshot 2](docs/APK%20Screenshot%202.png)
-[Link to Screenshot 3](docs/APK%20Screenshot%203.png)
-[Link to Screenshot 4](docs/APK%20Screenshot%204.png)
-
-Contributing
+## Contributing
 
 As a personal portfolio project, direct contributions are not actively sought. However, if you find any issues or have suggestions, feel free to open an issue on this repository.
 
-License
+## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the ```LICENSE``` file for details.
 
-Contact
+## Contact
 
 Jonathan Kleve
 
