@@ -98,7 +98,7 @@ This project is accompanied by some documentation.
 
 * UI/UX Diagrams:
 
-  * [Link to Storyboard](docs/School%20Scheduler%20Storyboard.png)
+  * [Link to Storyboard](docs/School%20Scheduler%20Storyboard.drawio.png)
 
 * APK Generation Documentation: Show the process of creating the signed APK file via Android Studio for proof as required by the assignment.
 
