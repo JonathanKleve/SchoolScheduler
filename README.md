@@ -72,6 +72,7 @@ Before you begin, ensure you have the following installed:
 
 <immersive>
 git clone https://github.com/JonathanKleve/SchoolScheduler.git
+ 
 cd SchoolScheduler
 </immersive>
 
