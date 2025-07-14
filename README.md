@@ -100,11 +100,19 @@ This project is accompanied by some documentation.
 
 Project Reflection: This document addresses a few key aspects of the application, the development process, issues encountered, and how the developer would approach the project again with different perspectives.
 
-[Link to Project Reflection (e.g., docs/School%20Scheduler%20Reflection.pdf)]
+[Link to Project Reflection](docs/School%20Scheduler%20Reflection.pdf)
 
 UI/UX Diagrams:
 
-[Link to Storyboard (e.g., docs/School%20Scheduler%20Storyboard.png)]
+[Link to Storyboard](docs/School%20Scheduler%20Storyboard.png)
+
+APK Generation Documentation:
+
+APK Screenshots 1-4: Showing the process of creating the signed APK file via Android Studio for proof as required by the assignment.
+[Link to Screenshot 1](docs/APK%20Screenshot%201.png)
+[Link to Screenshot 2](docs/APK%20Screenshot%202.png)
+[Link to Screenshot 3](docs/APK%20Screenshot%203.png)
+[Link to Screenshot 4](docs/APK%20Screenshot%204.png)
 
 Contributing
 As a personal portfolio project, direct contributions are not actively sought. However, if you find any issues or have suggestions, feel free to open an issue on this repository.
