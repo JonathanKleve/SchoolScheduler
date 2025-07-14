@@ -5,6 +5,7 @@ The School Scheduler is an application designed to assist educational institutio
 This project demonstrates foundational software development concepts, including database management, user interface design, and logical organization for complex data.
 
 Features
+
 Course Management:
 
 Add, view, update, and delete course details (e.g., course ID, name, start and end dates).
