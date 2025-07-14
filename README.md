@@ -1,16 +1,17 @@
-#Heading 1 School Scheduler Project Overview
+# School Scheduler 
+## Project Overview
 
 The School Scheduler is an application designed to assist educational institutions in managing and organizing their academic schedules efficiently. It provides functionalities to manage courses, students, instructors, and their respective assignments, aiming to optimize class scheduling and resource allocation while minimizing conflicts.
 
 This project demonstrates foundational software development concepts, including database management, user interface design, and logical organization for complex data.
 
-Features
+## Features
 
-Course Management:
+* Course Management:
 
-Add, view, update, and delete course details (e.g., course ID, name, start and end dates).
+  * Add, view, update, and delete course details (e.g., course ID, name, start and end dates).
 
-Student Management:
+* Student Management:
 
 Add, view, update, and delete student records (e.g., student ID, name, contact info).
 
