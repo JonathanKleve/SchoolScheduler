@@ -109,6 +109,7 @@ UI/UX Diagrams:
 APK Generation Documentation:
 
 APK Screenshots 1-4: Showing the process of creating the signed APK file via Android Studio for proof as required by the assignment.
+
 [Link to Screenshot 1](docs/APK%20Screenshot%201.png)
 [Link to Screenshot 2](docs/APK%20Screenshot%202.png)
 [Link to Screenshot 3](docs/APK%20Screenshot%203.png)
