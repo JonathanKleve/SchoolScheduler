@@ -70,11 +70,10 @@ Before you begin, ensure you have the following installed:
 * Installation
   * Clone the repository:
 
-<immersive>
+''' bash '''
 git clone https://github.com/JonathanKleve/SchoolScheduler.git
  
 cd SchoolScheduler
-</immersive>
 
 Open and Build the Project in Android Studio:
 
