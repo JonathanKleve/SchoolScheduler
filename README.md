@@ -38,6 +38,7 @@ Generate course rosters.
 [Add any other specific features, e.g., User authentication, Search functionality]
 
 Technologies Used
+
 Programming Language:
 
 Java 17
@@ -116,12 +117,15 @@ APK Screenshots 1-4: Showing the process of creating the signed APK file via And
 [Link to Screenshot 4](docs/APK%20Screenshot%204.png)
 
 Contributing
+
 As a personal portfolio project, direct contributions are not actively sought. However, if you find any issues or have suggestions, feel free to open an issue on this repository.
 
 License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Contact
+
 Jonathan Kleve
 
 Email: 194426067+JonathanKleve@users.noreply.github.com
