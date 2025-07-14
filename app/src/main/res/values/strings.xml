@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">School Scheduler</string>
+    <string name="go_button">Go</string>
+    <string name="view_all">View All</string>
+    <string name="create_new">Create New</string>
+    <string name="terms_title">Terms</string>
+    <string name="courses_title">Courses</string>
+    <string name="assessments_title">Assessments</string>
+    <string name="instructors_title">Instructors</string>
+    <string name="assessment">Assessment</string>
+    <string name="title">Title</string>
+    <string name="course">Course</string>
+    <string name="type">Type</string>
+    <string name="start">Start</string>
+    <string name="end">End</string>
+    <string name="create_alerts">Create Alerts</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="instructor">Instructor</string>
+    <string name="notes">Notes</string>
+    <string name="share_notes">Share Notes</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="term">Term</string>
+    <string name="info">Info</string>
+    <string name="submit">Submit</string>
+    <string name="status">Status</string>
+    <string name="name">Name</string>
+    <string name="click_to_see">Tap on an item to see details</string>
+    <string name="view_courses">View Courses</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="list">List</string>
+    <string-array name="spinner_items">
+        <item>@string/terms_title</item>
+        <item>@string/instructors_title</item>
+        <item>@string/courses_title</item>
+        <item>@string/assessments_title</item>
+    </string-array>
+    <string-array name="status_spinner_items">
+        <item>In Progress</item>
+        <item>Completed</item>
+        <item>Plan to Take</item>
+        <item>Dropped</item>
+    </string-array>
+    <string-array name="assessment_type_spinner_items">
+        <item>Objective</item>
+        <item>Performance</item>
+    </string-array>
+</resources>
