@@ -1,4 +1,4 @@
-School Scheduler Project Overview
+#Heading 1 School Scheduler Project Overview
 
 The School Scheduler is an application designed to assist educational institutions in managing and organizing their academic schedules efficiently. It provides functionalities to manage courses, students, instructors, and their respective assignments, aiming to optimize class scheduling and resource allocation while minimizing conflicts.
 
@@ -90,6 +90,7 @@ Build the project: Build > Make Project.
 
 Usage
 
+After launching the application, you will be taken to the main menu. To return to the main menu at any time, tap the home icon in the top left of the application. To create a new term, course, assignment, or instructor, select the appropriate option from the drop down menu under the create new label and then tap the go button. Keep in mind that a course will require a term and instructor in the database in order to create and an assignment will require a course in the database in order to create. In order to view all of the terms, courses, assignments, or instructors currently saved, select the corresponding option from the drop down menu under the view all label and then tap the go button. In order to view detailed information on a specific term, course, assignment, or instructor, complete the view all steps mentioned previously and then tap on the specific item from within that list. From this menu, you can edit or delete the item, see associated courses for terms, create alerts for courses and assignments, and share notes for courses.
 
 To run the Android application:
 
