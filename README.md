@@ -13,68 +13,62 @@ This project demonstrates foundational software development concepts, including 
 
 * Student Management:
 
-Add, view, update, and delete student records (e.g., student ID, name, contact info).
+  * Add, view, update, and delete student records (e.g., student ID, name, contact info).
 
-Enroll students in courses.
+  * Enroll students in courses.
 
-Instructor Management:
+* Instructor Management:
 
-Add, view, update, and delete instructor details (e.g., instructor ID, name).
+  * Add, view, update, and delete instructor details (e.g., instructor ID, name).
 
-Assign instructors to courses.
+  * Assign instructors to courses.
 
-Schedule Creation:
+* Schedule Creation:
 
-Assign specific times and locations to courses.
+  * Assign specific times and locations to courses.
 
-Data Persistence: All data (courses, students, instructors, schedules) is securely stored and retrieved from a relational database.
+  * Data Persistence: All data (courses, students, instructors, schedules) is securely stored and retrieved from a relational database.
 
-Reporting:
+* Reporting:
 
-Generate student schedules.
+  * Generate student schedules.
 
-Generate course rosters.
+  * Generate course rosters.
 
 [Add any other specific reports, e.g., Instructor workload reports]
 
 [Add any other specific features, e.g., User authentication, Search functionality]
 
-Technologies Used
+## Technologies Used
 
-Programming Language:
+* Programming Language: Java 17
 
-Java 17
+* Database: SQLite (integrated within Android)
 
-Database:
+* Development Environment: Android Studio Meercat
 
-SQLite (integrated within Android)
+* Version Control: Git
 
-Development Environment:
-
-Android Studio Meercat
-
-Version Control: Git
-
-Getting Started
+## Getting Started
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
 
-Prerequisites
+### Prerequisites
 Before you begin, ensure you have the following installed:
 
-Git: For cloning the repository.
+* Git: For cloning the repository.
 
-[Download Git](https://git-scm.com/downloads)
+  * [Download Git](https://git-scm.com/downloads)
 
-Java Development Kit (JDK): 17
+* Java Development Kit (JDK): 17
 
-[Download JDK](https://www.oracle.com/java/technologies/downloads/) or [OpenJDK](https://openjdk.java.net/install/)
+  * [Download JDK](https://www.oracle.com/java/technologies/downloads/) or [OpenJDK](https://openjdk.java.net/install/)
 
-Android Studio: For opening and running the Android application.
+* Android Studio: For opening and running the Android application.
 
-[Download Android Studio](https://developer.android.com/studio/install)
+  * [Download Android Studio](https://developer.android.com/studio/install)
 
-Installation
-Clone the repository:
+* Installation
+  * Clone the repository:
 
 git clone https://github.com/JonathanKleve/SchoolScheduler.git
 cd SchoolScheduler
